@@ -1,6 +1,6 @@
 """
 Neighbor Joining Algorithm
-Author: Moh Khan
+Author: Mohammad Khan
 Description: Constructs an unrooted phylogenetic tree from a distance matrix
              using the Neighbor Joining algorithm. Outputs in Newick format.
 """
