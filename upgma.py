@@ -1,6 +1,6 @@
 """
 UPGMA - Unweighted Pair Group Method with Arithmetic Mean
-Author: Moh Khan
+Author: Mohammad Khan
 Description: Constructs a phylogenetic tree from a distance matrix using the
              UPGMA algorithm. Outputs the result in Newick format.
 """
