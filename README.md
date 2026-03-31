@@ -48,7 +48,7 @@ Given a matrix of biological distances between species or sequences, this tool r
 
 ```bash
 # Clone the repo
-git clone https://github.com/moh-k-06276933b/phylogenetic-analysis.git
+git clone https://github.com/slomohhh/phylogenetic-analysis.git
 cd phylogenetic-analysis
 
 # Install dependencies
